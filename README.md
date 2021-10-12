@@ -1,7 +1,7 @@
 # Página WEB desenvolvida, após concluir os cursos de HTML e CSS da DEVMEDIA. 
 
 ## Sobre o projeto
-### O projeto foi desenvolvido em HTML e CSS com páginas responsivas que se adptam a diversos dispositivos como, por exemplo, notebook, smartphones e tablet, são páginas estáticas.
+### O projeto foi desenvolvido em HTML e CSS com páginas responsivas que se adptam a diversos dispositivos, como, por exemplo, notebook, smartphones e tablet, são páginas estáticas.
 
 ## Layout da página
 ### Página principal
