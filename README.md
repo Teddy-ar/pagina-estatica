@@ -10,7 +10,7 @@
 ![WEB2](https://github.com/Teddy-ar/pagina-estatica/blob/master/assets/GIF_2.gif)
 
 ## Layout em outros dispositivos (Smartphones e Tablet)
-### Página principal visualizando no smartphone
+### Visualizando pelo smartphone
 ![Smartphone](https://github.com/Teddy-ar/pagina-estatica/blob/master/assets/GIF_3.gif) 
-### Página principal visualizando no tablet
+### Visualizando pelo tablet
 ![Tablet](https://github.com/Teddy-ar/pagina-estatica/blob/master/assets/GIF_4.gif)
